@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project we refactored code that was given to us.  We went through the HTML and replaced all the "div's" with the correct semantic tags.  We then went through and refactored the CSS file included.  We consolidated the css and made sure it was using proper structure and naming.
+In this project we were tasked with refactoring the code given to us. Going through the HTML, we replaced all the *div's* with the correct semantic tags. Afterwards, we checked the CSS file and refactored any corresponding code. 
 
 ## Repository
 
@@ -19,9 +19,8 @@ Link to deployed code:  <your Github pages url>
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon_website_page1.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon_website_page2.png)
+### License
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon_website_page3.png)
-
+![MIT](https://img.shields.io/badge/license-MIT-green)
